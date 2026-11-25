@@ -1,8 +1,8 @@
-# CSS Grid Generator
+# CSS Grid Areas Builder
 
 A visual CSS Grid builder. Set columns, rows, track sizes, and gaps, preview the grid live, name a few areas, and copy the generated CSS. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/css-grid-generator/
+**Live demo:** https://0xelitesystem.github.io/css-grid-areas-builder/
 
 ## Use
 
@@ -28,8 +28,8 @@ Everything runs in your browser. Nothing you enter is uploaded. Verify by viewin
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/css-grid-generator
-cd css-grid-generator
+git clone https://github.com/0xelitesystem/css-grid-areas-builder
+cd css-grid-areas-builder
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
