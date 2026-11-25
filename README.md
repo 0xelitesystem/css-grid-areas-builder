@@ -48,6 +48,6 @@ MIT.
 
 ## Related
 
-- [gradient-generator](https://github.com/0xelitesystem/gradient-generator), build CSS gradients visually
+- [css-gradient-composer](https://github.com/0xelitesystem/css-gradient-composer), build CSS gradients visually
 - [meta-og-tag-generator](https://github.com/0xelitesystem/meta-og-tag-generator), generate Open Graph and meta tags
 - [json-to-typescript](https://github.com/0xelitesystem/json-to-typescript), turn JSON into TypeScript types
